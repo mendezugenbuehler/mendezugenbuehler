@@ -3,7 +3,7 @@ Hey 👋 I'm Matt
 
 I'm currently advancing my skills at General Assembly, aiming to transition into a development career where I can blend my background in user engagement with coding and digital design. I'm passionate about building user-centric web applications that prioritize clean, intuitive design and accessibility, with a commitment to making technology inclusive for everybody & amplifying LGBTQ+ perspectives.
 
-* 🌍  I'm based in Mountain View, CA
+* 🌍  I'm based in Sunnyvale, CA
 * ✉️  You can contact me at [mzugenbuehler@gmail.com](mailto:mzugenbuehler@gmail.com)
 * 🧠  I'm learning the foundations of Python, Javascript and web development.
 * 🤝  I'm open to collaborating on projects that help introduce me to the wider developer community as as a mentee & initiatives supporting under represented communities in tech.
