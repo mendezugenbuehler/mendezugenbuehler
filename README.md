@@ -6,7 +6,7 @@ I’m a recent graduate of General Assembly's Software Engineering Bootcamp, wit
 * 🌍  I'm based in Sunnyvale, CA
 * ✉️  You can contact me at [mzugenbuehler@gmail.com](mailto:mzugenbuehler@gmail.com)
 * 🧠  I’ve completed General Assembly’s Software Engineering Bootcamp, where I gained hands-on experience with Git/GitHub, HTML, CSS, JavaScript, Express/Node, RESTful routing, MongoDB, Python, PostgreSQL, Django, and React
-* 🤝  I'm looking to collaborate on full-stack projects, continue learning, and contribute to initiatives supporting underrepresented communities in tech.
+* 🤝  I'm looking to continue collaborating on full-stack projects, further my learning, and contribute to initiatives supporting underrepresented communities in tech.
 
 ### Skills
 
