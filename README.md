@@ -1,12 +1,12 @@
 Hey 👋 I'm Matt
 =====================
 
-I'm currently advancing my skills at General Assembly, aiming to transition into a development career where I can blend my background in user engagement with coding and digital design. I'm passionate about building user-centric web applications that prioritize clean, intuitive design and accessibility, with a commitment to making technology inclusive for everybody & amplifying LGBTQ+ perspectives.
+I’m a recent graduate of General Assembly's Software Engineering Bootcamp, with a background in account, product, and project management.  I specialize in building user-centeric apps, focusing on clean, inutitive deisgns that emphasize accessibility.  My experience in collaborating with cross-functional teams & driving strategies has honed my ability to translate user needs into impactful, scalable solutions.  I'm passonate about using technology to create inclusive, innovative digital experiences with focus on amplifying LGBTQ+ perspectives in the tech space.
 
 * 🌍  I'm based in Sunnyvale, CA
 * ✉️  You can contact me at [mzugenbuehler@gmail.com](mailto:mzugenbuehler@gmail.com)
-* 🧠  I'm learning the foundations of Python, Javascript and web development.
-* 🤝  I'm open to collaborating on projects that help introduce me to the wider developer community as as a mentee & initiatives supporting under represented communities in tech.
+* 🧠  I’ve completed General Assembly’s Software Engineering Bootcamp, where I gained hands-on experience with Git/GitHub, HTML, CSS, JavaScript, Express/Node, RESTful routing, MongoDB, Python, PostgreSQL, Django, and React
+* 🤝  I'm looking to collaborate on full-stack projects, continue learning, and contribute to initiatives supporting underrepresented communities in tech.
 
 ### Skills
 
