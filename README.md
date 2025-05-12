@@ -1,12 +1,12 @@
 Hey 👋 I'm Matt
 =====================
 
-I’m a recent graduate of General Assembly's Software Engineering Bootcamp, with a background in account, product, and project management.  I specialize in building user-centeric apps, focusing on clean, inutitive deisgns that emphasize accessibility.  My experience in collaborating with cross-functional teams & driving strategies has honed my ability to translate user needs into impactful, scalable solutions.  I'm passonate about using technology to create inclusive, innovative digital experiences with focus on amplifying LGBTQ+ perspectives in the tech space.
+I’m a recent graduate of General Assembly's Software Engineering Bootcamp, with a background in account, product, and project management. I specialize in building user-centric apps, focusing on clean, intuitive designs that emphasize accessibility. My experience in collaborating with cross-functional teams and driving strategies has honed my ability to translate user needs into impactful, scalable solutions. I’m passionate about using technology to create inclusive, innovative digital experiences, with a focus on amplifying LGBTQ+ perspectives in tech.
 
 * 🌍  I'm based in Sunnyvale, CA
 * ✉️  You can contact me at [mzugenbuehler@gmail.com](mailto:mzugenbuehler@gmail.com)
-* 🧠  I’ve completed General Assembly’s Software Engineering Bootcamp, where I gained hands-on experience with Git/GitHub, HTML, CSS, JavaScript, Express/Node, RESTful routing, MongoDB, Python, PostgreSQL, Django, and React
-* 🤝  I'm looking to continue collaborating on full-stack projects, further my learning, and contribute to initiatives supporting underrepresented communities in tech.
+* 🧠  I have experience with Git/GitHub, HTML, CSS, JavaScript, Express/Node, RESTful routing, MongoDB, Python, PostgreSQL, Django, and React. Recently, I’ve been focusing on mastering AI-powered tools like GitHub Copilot and Cursor to automate routine tasks, improve code quality, and boost productivity. I believe these tools will help us evolve toward writing smarter, more efficient code while accelerating both the learning and development process.
+* 🤝  I'm looking to continue collaborating on full-stack projects, further my learning in AI and the latest industry trends, and contribute to initiatives that promote inclusivity and support underrepresented communities in tech.
 
 ### Skills
 
